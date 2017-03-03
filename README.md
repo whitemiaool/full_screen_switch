@@ -1,0 +1,2 @@
+# full_screen_switch
+基于JQuery开发的全屏切换浏览插件
