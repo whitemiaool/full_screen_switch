@@ -1,2 +1,4 @@
 # full_screen_switch
 基于JQuery开发的全屏切换浏览插件
+#教程
+clone后直接在浏览器窗口中打开demo.html
